@@ -1,0 +1,33 @@
+ul{
+    list-style-type: none;
+    margin-left: 90%;
+    padding: 0;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    text-decoration: none;
+}
+
+#R{
+    width: 10cm;
+}
+
+#grp{
+    margin-top: 2ex;
+}
+
+input{
+    margin-top: 2ex;
+    width: 10cm;
+}
+
+button{
+    margin-top: 3ex;
+}
+#form{
+    text-align: center;
+}
